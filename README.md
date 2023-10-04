@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baraa al Haj</h1>
 <h3 align="center">Android developer from Palestine</h3>
-<img align ="right" alt="coding" with="400" src ="https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b8621d221ed49bf3bf0abcb7e7efee87%3frik%3d%252fVxsz46vZmIy9w%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=animated+coding+gif&simid=608020121056729743&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=3">
+<img align ="right" alt="coding" with="400" src ="[ ](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baraa&label=Profile%20views&color=0e75b6&style=flat" alt="baraa" /> </p>
 
 - 🔭 I’m currently working on **JobFinder**
